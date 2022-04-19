@@ -1,0 +1,48 @@
+/*Brode Sorensen April 8th 2022-->
+
+/* does the color and font look good */
+
+Body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(23, 24, 22);
+    background-image: url("../images/Caribbean-beach.jpeg");
+}
+
+li {
+    font-size: 14px;
+    color: rgb(9, 0, 9);
+    font-style: italic;
+    font-weight: normal;
+}
+
+
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+/* we can change the color from Brown */
+
+a {
+    color: rgb(240, 234, 234);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(117, 108, 110);
+}
+
+.homebg {
+    background-image: url("../images/Caribbean-beach.jpeg");
+}

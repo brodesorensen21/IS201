@@ -1,0 +1,50 @@
+Body{ 
+    background-color: rgb(239, 233, 224); 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+} 
+
+
+
+
+
+.common { background-color: rgb(227, 243, 243);
+position: absolute;
+}
+
+
+.header{top: 5px;
+    right: 5px;
+    left:5px;
+    height:100px;
+    z-index: 2;}
+
+    .leftmenu{top: 114px;
+        left:5px;
+        width:100px;
+        bottom: 64px;
+        z-index:1;
+        padding-top: 45px; 
+    }
+
+.mainbody{top: 114px;
+    right: 114px;
+    left:114px;
+    bottom:64px;}
+
+.rightbody{top: 114px;
+        right: 5px;
+        width:100px;
+        bottom:64px;}
+
+.footer{bottom:5px;
+        right: 5px;
+        left:5px;
+        height:50px;
+    font-size: 8px;
+position: fixed;}
+
+
+    .subheader { float:right;
+    border: solid 2px rgb(8, 7, 8);}
